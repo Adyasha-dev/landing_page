@@ -1,0 +1,10 @@
+.One{
+    display:flex;
+    flex-direction:row;
+    list-style-type:none;
+    height:5rem;
+    background-color:blueviolet;
+    padding-left:"600px";
+    margin-left:"50px";
+
+}
